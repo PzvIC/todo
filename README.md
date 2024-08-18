@@ -1,3 +1,3 @@
-Simple to-do list with edit and delete buttons, responsive design, modal with description of the project.<br/>
+Simple to-do list with edit and delete buttons. Local Storage. Responsive design. Modal with description of the project.<br/>
 <br/>
-Html, TailwindCSS, Javascript, Typescript, React
+Html<br/>TailwindCSS<br/>Javascript<br/>Typescript<br/>React
